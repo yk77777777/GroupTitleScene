@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571328, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u929A\u5B50\u6D77\u6D0B\u7814\u7A76\u6240"
+  m_Text: Portant
 --- !u!222 &30673759
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -647,7 +647,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6771\u4EAC\u30C9\u30A4\u30C4\u6751"
+  m_Text: Fruit Farm
 --- !u!222 &1550183682
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -893,7 +893,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30CE\u30B3\u30AE\u30EA\u5C71\n"
+  m_Text: 'SkiRace
+
+'
 --- !u!222 &1619540442
 CanvasRenderer:
   m_ObjectHideFlags: 0
